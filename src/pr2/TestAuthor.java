@@ -2,10 +2,10 @@ package pr2;
 
 public class TestAuthor {
     public static void main(String[] args) {
-        // Создаем автора (пример из методички)
-        Author author = new Author("Tan Ah Teck", "ahTeck@somewhere.com", 'm');
+        // Создаем автора
+        Author author = new Author("Vika", "vikaaa@mail.com", 'w');
 
-        // Выводим информацию (сработает метод toString)
+        // Выводим информацию
         System.out.println(author);
 
         // Проверяем смену почты

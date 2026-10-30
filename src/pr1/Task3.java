@@ -1,7 +1,7 @@
 package pr1;
 public class Task3 {
     public static void main(String[] args) {
-        // Инициализация массива (как в Си)
+        // Инициализация массива
         int[] numbers = {5, 12, 8, 23, 4, 16, 7};
 
         int sum = 0;

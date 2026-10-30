@@ -1,7 +1,7 @@
 package pr2;
 
 public class Author {
-    // Приватные поля (как на UML-диаграмме: -name, -email, -gender)
+    // Приватные поля ( -name, -email, -gender)
     private String name;
     private String email;
     private char gender; // 'm', 'f' или 'u'
